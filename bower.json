@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap",
+  "homepage": "https://github.com/Rezuan98/bootstrap",
+  "authors": [
+    "Rezuan98 <rezuanahmmeds@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^2.6.0"
+  }
+}
